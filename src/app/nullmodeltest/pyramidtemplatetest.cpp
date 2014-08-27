@@ -13,7 +13,6 @@ PyramidTemplateTest::PyramidTemplateTest( RasterModel* theModel, const LocalityC
 }
 
 /* PUBLIC FUNCTIONS */
-
 void PyramidTemplateTest::abort()
 {
   exit();
