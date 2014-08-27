@@ -1,0 +1,5 @@
+<map id="RasterModel::RasterModel" name="RasterModel::RasterModel">
+<area shape="rect" id="node2" href="$class_raster_model.html#acec5d3b4361803e2fff2cb3c0584b50e" title="Loads a raster layer, expects at least a file name. providing a threshhold value is optional..." alt="" coords="229,43,356,69"/>
+<area shape="rect" id="node3" href="$class_gradient_shader.html#aeafe60d570dbd39ec6dbd798c8b8a7f8" title="GradientShader::setInterval" alt="" coords="404,5,583,32"/>
+<area shape="rect" id="node4" href="$class_gradient_shader.html#a47bf3a9b8185f8888b9d4594dd217584" title="GradientShader::shade" alt="" coords="416,80,571,107"/>
+</map>

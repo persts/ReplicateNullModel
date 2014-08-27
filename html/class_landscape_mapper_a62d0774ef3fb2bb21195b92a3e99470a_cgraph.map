@@ -1,0 +1,6 @@
+<map id="LandscapeMapper::run" name="LandscapeMapper::run">
+<area shape="rect" id="node2" href="$class_raster_model.html#a91f1dd6a94b2d026e4f10980e6ab7545" title="Returns the width of the currently loaded raster layer. " alt="" coords="247,5,380,32"/>
+<area shape="rect" id="node3" href="$class_raster_model.html#a2efc5798bd4218fce20bf8e857bc694e" title="Returns the height of the currently loaded raster layer. " alt="" coords="244,56,383,83"/>
+<area shape="rect" id="node4" href="$class_raster_model.html#aea11c5898249bce79519bdc4ee571693" title="Return the model response at pixel coordinate x, y. " alt="" coords="215,107,411,149"/>
+<area shape="rect" id="node5" href="$class_landscape_mapper.html#ac9326853ccb91c16db512c107a6b5413" title="LandscapeMapper::addReplicate" alt="" coords="208,173,419,200"/>
+</map>

@@ -3,8 +3,9 @@ OBJECTS_DIR = build
 MOC_DIR = build
 UI_DIR = build
 CONFIG += qt
-CONFIG += release
+CONFIG += debug
 RESOURCES = ./src/gui/gui.qrc
+QT += qml quick widgets core
 
 SOURCES += aboutdialog.cpp
 SOURCES += main.cpp
@@ -74,7 +75,7 @@ FORMS += ./src/ui/replicatenullmodelwindow.ui
 INCLUDEPATH = ./ ./src/app ./src/app/core ./src/app/nullmodeltest ./src/gui/
 #Quote if spaces $$quote(/usr/include/gdal)
 unix:INCLUDEPATH += /usr/include/gdal /usr/include/
-win32:INCLUDEPATH += C:/OSGeo4W/include C:/devel/src/boost_1_50_0
+win32:INCLUDEPATH += C:/OSGeo4W/include C:/OSGeo4W/boost_1_50_0 C:/OSGeo4W/gsl C:/OSGeo4W/bin
 
 unix:LIBS += -L/usr/lib/ -lgdal -lgsl -l gslcblas
 win32:LIBS = -LC:/OSGeo4W/lib -lgdal_i

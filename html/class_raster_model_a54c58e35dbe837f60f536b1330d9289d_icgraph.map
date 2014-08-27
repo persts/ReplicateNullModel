@@ -1,0 +1,8 @@
+<map id="RasterModel::rawDataAtPixelCoordinate" name="RasterModel::rawDataAtPixelCoordinate">
+<area shape="rect" id="node2" href="$class_raster_model.html#aa68a3d89a4b1f5b7a90c619b06e9fa25" title="Returns the actual pixel value ( not model response ) at pixel coordinates x, y. " alt="" coords="245,13,437,54"/>
+<area shape="rect" id="node3" href="$class_raster_model.html#a0e99ebf35af8d80b5fd042d1c410d220" title="Returns the actual pixel value ( not model response ) at real world coordinates x, y. " alt="" coords="247,78,436,119"/>
+<area shape="rect" id="node4" href="$class_raster_model.html#a6ec7510c892d411f291b9c612a4b80cf" title="RasterModel::omissionList" alt="" coords="496,5,672,32"/>
+<area shape="rect" id="node5" href="$class_raster_model.html#a60704289247fe9d727c3c2af54afb304" title="RasterModel::omissionListFull" alt="" coords="485,56,683,83"/>
+<area shape="rect" id="node6" href="$class_raster_model.html#a607c66c8db7c6a3ee203678018f51818" title="Returns the actual pixel value ( not model response ) at real world coordinates x, y, represented by a QPointF. " alt="" coords="489,107,679,149"/>
+<area shape="rect" id="node7" href="$class_calibration_test.html#a28d5c657bf870b131e3c8bb604f05088" title="CalibrationTest::run" alt="" coords="517,173,651,200"/>
+</map>

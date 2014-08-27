@@ -1,0 +1,10 @@
+<map id="LocalitiesTableWidget::loadLocalities" name="LocalitiesTableWidget::loadLocalities">
+<area shape="rect" id="node2" href="$class_locality_collection.html#a4ae2b4eaeca3e3381c8ab157565d3caf" title="The header fields from the localities file. " alt="" coords="240,5,364,47"/>
+<area shape="rect" id="node3" href="$class_locality_collection.html#a97db9e03d718fd17dea5997dc8b82ec1" title="LocalityCollection\l::species" alt="" coords="240,71,364,112"/>
+<area shape="rect" id="node4" href="$class_locality_collection.html#a8d09777374b7f0fd47eb2a508e970fbe" title="Accessor for the presence localties list. " alt="" coords="221,136,383,177"/>
+<area shape="rect" id="node5" href="$class_locality_list.html#aa98d69f8ed94911071c7b8da7eca5eb2" title="Return the size of the list, same as the count of elements. " alt="" coords="449,227,569,254"/>
+<area shape="rect" id="node6" href="$class_locality_list.html#a8884130ec9d41f3efc382da9f6b47819" title="Returns the locality at a list position. " alt="" coords="233,253,371,279"/>
+<area shape="rect" id="node7" href="$class_locality_collection.html#a83d2865241e8f9338365380f19c9032e" title="Accessor for the absence localities list. " alt="" coords="223,304,381,345"/>
+<area shape="rect" id="node8" href="$class_locality_collection.html#a89224e9dba134293cb5e998221d16f75" title="Accessor for the calibration&#45;presence localities list. " alt="" coords="203,369,401,411"/>
+<area shape="rect" id="node9" href="$class_locality_collection.html#a0b39d3ca6479f855c046f1f71f7bc455" title="Accessor for the calibration&#45;absence localities list. " alt="" coords="205,435,399,476"/>
+</map>

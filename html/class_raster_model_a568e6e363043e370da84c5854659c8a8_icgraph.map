@@ -1,0 +1,7 @@
+<map id="RasterModel::modelResponseAtRealWorldCoordinate" name="RasterModel::modelResponseAtRealWorldCoordinate">
+<area shape="rect" id="node2" href="$class_raster_model.html#a2346532dfc8d303e4173da37834d7485" title="Return the model response at real world x, y represented by a QPointF. " alt="" coords="249,5,445,47"/>
+<area shape="rect" id="node3" href="$class_binomial_test.html#a7be7ba0df650c4ef0af562227de0cf5e" title="BinomialTest::run" alt="" coords="286,71,409,98"/>
+<area shape="rect" id="node4" href="$class_random_translation_rotation_thread.html#a9de7572c1dac4f639d00ba420777daf0" title="RandomTranslationRotation\lThread::run" alt="" coords="257,123,438,164"/>
+<area shape="rect" id="node5" href="$class_replicate_null_model_test.html#a3f376a9234a5d093d3fbe90617427377" title="ReplicateNullModelTest\l::arePresenceLocalitiesValid" alt="" coords="254,188,441,229"/>
+<area shape="rect" id="node6" href="$class_random_translation_rotation_test.html#af70b48542a7d154faef6de4fd66a047a" title="RandomTranslationRotation\lTest::run" alt="" coords="493,188,675,229"/>
+</map>

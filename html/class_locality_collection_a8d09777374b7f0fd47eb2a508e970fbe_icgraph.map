@@ -1,0 +1,9 @@
+<map id="LocalityCollection::testPresenceLocalities" name="LocalityCollection::testPresenceLocalities">
+<area shape="rect" id="node2" href="$class_species_locality_set.html#aaed3a271d032b5acbad62aeda3223c8b" title="SpeciesLocalitySet\l::save" alt="" coords="242,5,377,47"/>
+<area shape="rect" id="node3" href="$class_binomial_test.html#a7be7ba0df650c4ef0af562227de0cf5e" title="BinomialTest::run" alt="" coords="248,71,371,98"/>
+<area shape="rect" id="node4" href="$class_pyramid_template_test.html#a1800a271eeecd5e13a31246a86487fb2" title="PyramidTemplateTest\l::PyramidTemplateTest" alt="" coords="231,123,387,164"/>
+<area shape="rect" id="node5" href="$class_random_translation_rotation_test.html#af70b48542a7d154faef6de4fd66a047a" title="RandomTranslationRotation\lTest::run" alt="" coords="451,244,632,285"/>
+<area shape="rect" id="node6" href="$class_random_translation_rotation_test.html#a2850eef2f29f4f588e55f726cdd71562" title="RandomTranslationRotation\lTest::allThreadsFinished" alt="" coords="219,240,400,281"/>
+<area shape="rect" id="node7" href="$class_replicate_null_model_test.html#a3f376a9234a5d093d3fbe90617427377" title="ReplicateNullModelTest\l::arePresenceLocalitiesValid" alt="" coords="216,305,403,347"/>
+<area shape="rect" id="node8" href="$class_localities_table_widget.html#acdf9920b00d5d359394cd4fff46f9c15" title="LocalitiesTableWidget\l::loadLocalities" alt="" coords="235,371,384,412"/>
+</map>

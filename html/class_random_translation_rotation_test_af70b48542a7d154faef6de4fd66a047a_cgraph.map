@@ -1,0 +1,22 @@
+<map id="RandomTranslationRotationTest::run" name="RandomTranslationRotationTest::run">
+<area shape="rect" id="node2" href="$class_raster_model.html#a54f5896de7b913ed14c388a6b4ab80a3" title="Returns true of a raster layer has been sucessfully loaded. " alt="" coords="519,5,661,32"/>
+<area shape="rect" id="node3" href="$class_raster_model.html#a53cbdb7698403522dbb2acdd43403ac2" title="Returns true of a raster layer has been sucessfully loaded and a threshhold applied. " alt="" coords="247,181,423,222"/>
+<area shape="rect" id="node4" href="$class_raster_model.html#af13d2e46c9fb65900e9b50da789d0e79" title="RasterModel::xPixelResolution" alt="" coords="235,247,435,273"/>
+<area shape="rect" id="node5" href="$class_raster_model.html#aad2e4c689101ac9b0f139752add7681d" title="RasterModel::yPixelResolution" alt="" coords="235,297,435,324"/>
+<area shape="rect" id="node6" href="$class_replicate_null_model_test.html#a3f376a9234a5d093d3fbe90617427377" title="ReplicateNullModelTest\l::arePresenceLocalitiesValid" alt="" coords="241,115,428,157"/>
+<area shape="rect" id="node7" href="$class_locality_collection.html#a8d09777374b7f0fd47eb2a508e970fbe" title="Accessor for the presence localties list. " alt="" coords="509,57,671,98"/>
+<area shape="rect" id="node13" href="$class_replicate_null_model_test.html#aab56c48368832f9c6184900b4781e80c" title="ReplicateNullModelTest\l::initProgress" alt="" coords="255,349,414,390"/>
+<area shape="rect" id="node14" href="$class_replicate_null_model_test.html#ab323ab973dd816f265d16e38b16aff82" title="ReplicateNullModelTest\l::newThreadId" alt="" coords="255,414,414,455"/>
+<area shape="rect" id="node15" href="$class_random_translation_rotation_thread.html#a071849348380c22a907a2260d28462b4" title="RandomTranslationRotation\lThread::setParamters" alt="" coords="244,479,425,521"/>
+<area shape="rect" id="node16" href="$class_replicate_null_model_test.html#a64910df4ca9a5cb27ae9993bc5a6ce50" title="ReplicateNullModelTest\l::addThread" alt="" coords="255,545,414,586"/>
+<area shape="rect" id="node8" href="$class_locality_list.html#aa98d69f8ed94911071c7b8da7eca5eb2" title="Return the size of the list, same as the count of elements. " alt="" coords="783,227,903,253"/>
+<area shape="rect" id="node9" href="$class_locality_list.html#a8884130ec9d41f3efc382da9f6b47819" title="Returns the locality at a list position. " alt="" coords="521,239,659,265"/>
+<area shape="rect" id="node10" href="$class_raster_model.html#a568e6e363043e370da84c5854659c8a8" title="Return the model response at real world x, y. " alt="" coords="492,122,688,163"/>
+<area shape="rect" id="node11" href="$class_raster_model.html#a1315c81d892af432b5fcf2b54d3540b9" title="Translates real world coordinates into pixel coordinates. " alt="" coords="757,70,929,111"/>
+<area shape="rect" id="node12" href="$class_raster_model.html#aea11c5898249bce79519bdc4ee571693" title="Return the model response at pixel coordinate x, y. " alt="" coords="745,135,941,177"/>
+<area shape="rect" id="node17" href="$class_replicate_null_model_test_thread.html#a542cbb1366981485d28f921c4b7068c5" title="ReplicateNullModelTestThread::id" alt="" coords="483,493,697,520"/>
+<area shape="rect" id="node18" href="$class_replicate_null_model_test.html#abe42019c3d448fa1de6f25b7c976a69a" title="ReplicateNullModelTest\l::threadFinished" alt="" coords="511,545,669,586"/>
+<area shape="rect" id="node20" href="$class_replicate_null_model_test.html#a29bd720088530315146c3013a0fed1cb" title="ReplicateNullModelTest\l::threadProgress" alt="" coords="511,610,669,651"/>
+<area shape="rect" id="node19" href="$class_replicate_null_model_test.html#a8ca0441aa97bcda7adba7f2102c293b2" title="ReplicateNullModelTest\l::allThreadsFinished" alt="" coords="764,545,923,586"/>
+<area shape="rect" id="node21" href="$class_replicate_null_model_test.html#ae0f15586ead267d0593af56c221bc6b8" title="ReplicateNullModelTest\l::progress" alt="" coords="764,610,923,651"/>
+</map>

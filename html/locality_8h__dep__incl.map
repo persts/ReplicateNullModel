@@ -1,0 +1,37 @@
+<map id="src/app/core/locality.h" name="src/app/core/locality.h">
+<area shape="rect" id="node2" href="$localitylist_8h.html" title="src/app/core/localitylist.h" alt="" coords="1278,80,1445,107"/>
+<area shape="rect" id="node3" href="$localitycollection_8h.html" title="src/app/core/localitycollection.h" alt="" coords="660,155,865,181"/>
+<area shape="rect" id="node6" href="$specieslocalityset_8cpp.html" title="src/app/core/specieslocalityset.cpp" alt="" coords="5,326,232,353"/>
+<area shape="rect" id="node25" href="$rasterviewer_8cpp.html" title="src/gui/rasterviewer.cpp" alt="" coords="629,326,787,353"/>
+<area shape="rect" id="node24" href="$rasterviewer_8h.html" title="src/gui/rasterviewer.h" alt="" coords="913,237,1057,263"/>
+<area shape="rect" id="node26" href="$localitylist_8cpp.html" title="src/app/core/localitylist.cpp" alt="" coords="1671,155,1852,181"/>
+<area shape="rect" id="node27" href="$rastermodel_8h.html" title="src/app/core/rastermodel.h" alt="" coords="1273,155,1450,181"/>
+<area shape="rect" id="node31" href="$randomtranslationrotationthread_8h.html" title="src/app/nullmodeltest\l/randomtranslationrotationthread.h" alt="" coords="1604,319,1823,360"/>
+<area shape="rect" id="node33" href="$replicatetemplate_8h.html" title="src/app/nullmodeltest\l/replicatetemplate.h" alt="" coords="1893,229,2040,271"/>
+<area shape="rect" id="node4" href="$localitycollection_8cpp.html" title="src/app/core/localitycollection.cpp" alt="" coords="65,237,284,263"/>
+<area shape="rect" id="node5" href="$specieslocalityset_8h.html" title="src/app/core/specieslocalityset.h" alt="" coords="308,237,521,263"/>
+<area shape="rect" id="node9" href="$replicatenullmodelwindow_8cpp.html" title="src/gui/replicatenullmodelwindow.cpp" alt="" coords="1093,505,1329,531"/>
+<area shape="rect" id="node10" href="$replicatenullmodeltest_8h.html" title="src/app/nullmodeltest\l/replicatenullmodeltest.h" alt="" coords="1151,319,1313,360"/>
+<area shape="rect" id="node22" href="$localitiestablewidget_8h.html" title="src/gui/localitiestablewidget.h" alt="" coords="596,237,788,263"/>
+<area shape="rect" id="node7" href="$replicatenullmodelwindow_8h.html" title="src/gui/replicatenullmodelwindow.h" alt="" coords="510,415,733,442"/>
+<area shape="rect" id="node8" href="$main_8cpp.html" title="main.cpp" alt="" coords="584,505,659,531"/>
+<area shape="rect" id="node11" href="$binomialtest_8h.html" title="src/app/nullmodeltest\l/binomialtest.h" alt="" coords="757,408,904,449"/>
+<area shape="rect" id="node13" href="$calibrationtest_8h.html" title="src/app/nullmodeltest\l/calibrationtest.h" alt="" coords="1131,408,1277,449"/>
+<area shape="rect" id="node15" href="$pyramidtemplatetest_8h.html" title="src/app/nullmodeltest\l/pyramidtemplatetest.h" alt="" coords="1979,408,2133,449"/>
+<area shape="rect" id="node17" href="$randomdistributiontest_8h.html" title="src/app/nullmodeltest\l/randomdistributiontest.h" alt="" coords="1301,408,1467,449"/>
+<area shape="rect" id="node19" href="$randomtranslationrotationtest_8h.html" title="src/app/nullmodeltest\l/randomtranslationrotationtest.h" alt="" coords="1491,408,1696,449"/>
+<area shape="rect" id="node21" href="$replicatenullmodeltest_8cpp.html" title="src/app/nullmodeltest\l/replicatenullmodeltest.cpp" alt="" coords="929,408,1106,449"/>
+<area shape="rect" id="node12" href="$binomialtest_8cpp.html" title="src/app/nullmodeltest\l/binomialtest.cpp" alt="" coords="751,497,897,539"/>
+<area shape="rect" id="node14" href="$calibrationtest_8cpp.html" title="src/app/nullmodeltest\l/calibrationtest.cpp" alt="" coords="921,497,1068,539"/>
+<area shape="rect" id="node16" href="$pyramidtemplatetest_8cpp.html" title="src/app/nullmodeltest\l/pyramidtemplatetest.cpp" alt="" coords="2146,497,2315,539"/>
+<area shape="rect" id="node18" href="$randomdistributiontest_8cpp.html" title="src/app/nullmodeltest\l/randomdistributiontest.cpp" alt="" coords="1353,497,1532,539"/>
+<area shape="rect" id="node20" href="$randomtranslationrotationtest_8cpp.html" title="src/app/nullmodeltest\l/randomtranslationrotationtest.cpp" alt="" coords="1813,497,2032,539"/>
+<area shape="rect" id="node23" href="$localitiestablewidget_8cpp.html" title="src/gui/localitiestablewidget.cpp" alt="" coords="398,326,605,353"/>
+<area shape="rect" id="node28" href="$rastermodel_8cpp.html" title="src/app/core/rastermodel.cpp" alt="" coords="1133,237,1323,263"/>
+<area shape="rect" id="node29" href="$landscapemapper_8h.html" title="src/app/nullmodeltest\l/landscapemapper.h" alt="" coords="1399,229,1545,271"/>
+<area shape="rect" id="node30" href="$landscapemapper_8cpp.html" title="src/app/nullmodeltest\l/landscapemapper.cpp" alt="" coords="1375,319,1529,360"/>
+<area shape="rect" id="node32" href="$randomtranslationrotationthread_8cpp.html" title="src/app/nullmodeltest\l/randomtranslationrotationthread.cpp" alt="" coords="1721,408,1954,449"/>
+<area shape="rect" id="node34" href="$templatetestthread_8h.html" title="src/app/nullmodeltest\l/templatetestthread.h" alt="" coords="2215,319,2361,360"/>
+<area shape="rect" id="node36" href="$replicatetemplate_8cpp.html" title="src/app/nullmodeltest\l/replicatetemplate.cpp" alt="" coords="2005,319,2155,360"/>
+<area shape="rect" id="node35" href="$templatetestthread_8cpp.html" title="src/app/nullmodeltest\l/templatetestthread.cpp" alt="" coords="2209,408,2367,449"/>
+</map>

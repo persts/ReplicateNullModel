@@ -1,0 +1,9 @@
+<map id="CalibrationTest::run" name="CalibrationTest::run">
+<area shape="rect" id="node2" href="$class_locality_collection.html#a89224e9dba134293cb5e998221d16f75" title="Accessor for the calibration&#45;presence localities list. " alt="" coords="188,5,387,47"/>
+<area shape="rect" id="node3" href="$class_raster_model.html#a54f5896de7b913ed14c388a6b4ab80a3" title="Returns true of a raster layer has been sucessfully loaded. " alt="" coords="216,71,359,98"/>
+<area shape="rect" id="node4" href="$class_locality_list.html#aa98d69f8ed94911071c7b8da7eca5eb2" title="Return the size of the list, same as the count of elements. " alt="" coords="471,147,591,174"/>
+<area shape="rect" id="node5" href="$class_locality_list.html#a8884130ec9d41f3efc382da9f6b47819" title="Returns the locality at a list position. " alt="" coords="219,173,356,199"/>
+<area shape="rect" id="node6" href="$class_raster_model.html#a0e99ebf35af8d80b5fd042d1c410d220" title="Returns the actual pixel value ( not model response ) at real world coordinates x, y. " alt="" coords="193,224,382,265"/>
+<area shape="rect" id="node7" href="$class_raster_model.html#a1315c81d892af432b5fcf2b54d3540b9" title="Translates real world coordinates into pixel coordinates. " alt="" coords="445,211,617,252"/>
+<area shape="rect" id="node8" href="$class_raster_model.html#a54c58e35dbe837f60f536b1330d9289d" title="Returns the actual pixel value ( not model response ) at pixel coordinates x, y. " alt="" coords="435,276,627,317"/>
+</map>

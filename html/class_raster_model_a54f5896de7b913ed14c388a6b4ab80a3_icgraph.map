@@ -1,0 +1,8 @@
+<map id="RasterModel::isValid" name="RasterModel::isValid">
+<area shape="rect" id="node2" href="$class_binomial_test.html#a7be7ba0df650c4ef0af562227de0cf5e" title="BinomialTest::run" alt="" coords="234,5,357,32"/>
+<area shape="rect" id="node3" href="$class_calibration_test.html#a28d5c657bf870b131e3c8bb604f05088" title="CalibrationTest::run" alt="" coords="228,56,363,83"/>
+<area shape="rect" id="node4" href="$class_landscape_mapper.html#a2967ba7630e1e9816eece40ac1e4632c" title="LandscapeMapper::Landscape\lMapper" alt="" coords="196,107,395,149"/>
+<area shape="rect" id="node5" href="$class_random_distribution_test.html#a6abdadc38b69cb654cb3d9b5a2418b5e" title="RandomDistributionTest::run" alt="" coords="202,173,389,200"/>
+<area shape="rect" id="node6" href="$class_random_translation_rotation_test.html#af70b48542a7d154faef6de4fd66a047a" title="RandomTranslationRotation\lTest::run" alt="" coords="443,246,624,287"/>
+<area shape="rect" id="node7" href="$class_replicate_null_model_test.html#a3f376a9234a5d093d3fbe90617427377" title="ReplicateNullModelTest\l::arePresenceLocalitiesValid" alt="" coords="202,275,389,317"/>
+</map>

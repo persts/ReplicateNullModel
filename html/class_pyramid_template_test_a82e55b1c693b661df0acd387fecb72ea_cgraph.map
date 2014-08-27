@@ -1,0 +1,5 @@
+<map id="PyramidTemplateTest::run" name="PyramidTemplateTest::run">
+<area shape="rect" id="node2" href="$class_replicate_template.html#a49b23dc3f89cca9aa331bb09baef222d" title="ReplicateTemplate::\lisValid" alt="" coords="247,5,385,47"/>
+<area shape="rect" id="node3" href="$class_replicate_template.html#a1a6141688247c59907eb55fd7ce2f718" title="ReplicateTemplate::\llastError" alt="" coords="247,71,385,112"/>
+<area shape="rect" id="node4" href="$class_raster_model.html#a53cbdb7698403522dbb2acdd43403ac2" title="Returns true of a raster layer has been sucessfully loaded and a threshhold applied. " alt="" coords="228,136,404,177"/>
+</map>

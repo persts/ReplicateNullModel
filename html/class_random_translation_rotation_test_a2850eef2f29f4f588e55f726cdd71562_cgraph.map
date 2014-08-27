@@ -1,0 +1,12 @@
+<map id="RandomTranslationRotationTest::allThreadsFinished" name="RandomTranslationRotationTest::allThreadsFinished">
+<area shape="rect" id="node2" href="$class_locality_collection.html#a8d09777374b7f0fd47eb2a508e970fbe" title="Accessor for the presence localties list. " alt="" coords="251,5,413,47"/>
+<area shape="rect" id="node3" href="$class_locality_list.html#aa98d69f8ed94911071c7b8da7eca5eb2" title="Return the size of the list, same as the count of elements. " alt="" coords="272,71,392,98"/>
+<area shape="rect" id="node4" href="$class_probability.html#a3d9558525abdd35715511078ca13e45b" title="Convience function to general a basic report. " alt="" coords="243,122,421,149"/>
+<area shape="rect" id="node5" href="$class_landscape_mapper.html#a37f3d160987e28295b5ee5d860426df1" title="LandscapeMapper::calculate\lProbabilityBlocking" alt="" coords="238,173,426,215"/>
+<area shape="rect" id="node11" href="$class_landscape_mapper.html#a76f371ff501fa46d45568e255f1ab2a0" title="LandscapeMapper::probability" alt="" coords="235,239,429,266"/>
+<area shape="rect" id="node6" href="$class_landscape_mapper.html#a62d0774ef3fb2bb21195b92a3e99470a" title="LandscapeMapper::run" alt="" coords="477,181,632,207"/>
+<area shape="rect" id="node7" href="$class_raster_model.html#a91f1dd6a94b2d026e4f10980e6ab7545" title="Returns the width of the currently loaded raster layer. " alt="" coords="719,101,852,127"/>
+<area shape="rect" id="node8" href="$class_raster_model.html#a2efc5798bd4218fce20bf8e857bc694e" title="Returns the height of the currently loaded raster layer. " alt="" coords="716,151,855,178"/>
+<area shape="rect" id="node9" href="$class_raster_model.html#aea11c5898249bce79519bdc4ee571693" title="Return the model response at pixel coordinate x, y. " alt="" coords="687,203,883,244"/>
+<area shape="rect" id="node10" href="$class_landscape_mapper.html#ac9326853ccb91c16db512c107a6b5413" title="LandscapeMapper::addReplicate" alt="" coords="680,269,891,295"/>
+</map>

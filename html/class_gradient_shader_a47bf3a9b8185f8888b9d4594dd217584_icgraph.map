@@ -1,0 +1,5 @@
+<map id="GradientShader::shade" name="GradientShader::shade">
+<area shape="rect" id="node2" href="$class_raster_model.html#acec5d3b4361803e2fff2cb3c0584b50e" title="Loads a raster layer, expects at least a file name. providing a threshhold value is optional..." alt="" coords="208,31,335,57"/>
+<area shape="rect" id="node3" href="$class_raster_model.html#ac165ea72ce6fba5bad33cfe1831762e2" title="Constructor. " alt="" coords="383,5,559,32"/>
+<area shape="rect" id="node4" href="$class_raster_model.html#a52d55c1f3194e712f5af36944e8f5fce" title="Reloads the currently loaded raster layer. " alt="" coords="401,56,540,83"/>
+</map>

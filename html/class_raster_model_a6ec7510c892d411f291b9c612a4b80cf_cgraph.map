@@ -1,0 +1,7 @@
+<map id="RasterModel::omissionList" name="RasterModel::omissionList">
+<area shape="rect" id="node2" href="$class_locality_list.html#aa98d69f8ed94911071c7b8da7eca5eb2" title="Return the size of the list, same as the count of elements. " alt="" coords="503,5,623,32"/>
+<area shape="rect" id="node3" href="$class_locality_list.html#a8884130ec9d41f3efc382da9f6b47819" title="Returns the locality at a list position. " alt="" coords="255,31,393,57"/>
+<area shape="rect" id="node4" href="$class_raster_model.html#a0e99ebf35af8d80b5fd042d1c410d220" title="Returns the actual pixel value ( not model response ) at real world coordinates x, y. " alt="" coords="229,82,419,123"/>
+<area shape="rect" id="node5" href="$class_raster_model.html#a1315c81d892af432b5fcf2b54d3540b9" title="Translates real world coordinates into pixel coordinates. " alt="" coords="477,69,649,110"/>
+<area shape="rect" id="node6" href="$class_raster_model.html#a54c58e35dbe837f60f536b1330d9289d" title="Returns the actual pixel value ( not model response ) at pixel coordinates x, y. " alt="" coords="467,134,659,175"/>
+</map>

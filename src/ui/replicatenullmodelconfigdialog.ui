@@ -186,7 +186,7 @@
          <number>16</number>
         </property>
         <property name="value">
-         <number>10</number>
+         <number>1</number>
         </property>
        </widget>
       </item>
@@ -213,16 +213,16 @@
       <item row="0" column="5">
        <widget class="QDoubleSpinBox" name="dsboxNewResultMinimumTheshold">
         <property name="decimals">
-         <number>2</number>
+         <number>1</number>
         </property>
         <property name="maximum">
-         <double>10.000000000000000</double>
+         <double>40.000000000000000</double>
         </property>
         <property name="singleStep">
          <double>0.100000000000000</double>
         </property>
         <property name="value">
-         <double>1.000000000000000</double>
+         <double>35.000000000000000</double>
         </property>
        </widget>
       </item>

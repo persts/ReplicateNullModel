@@ -159,7 +159,7 @@ bool RasterModel::load( QString theFileName, bool estimateMinMax, bool useThresh
   cvThreshold = theThreshold;
   cvIsValid = false;
   GDALAllRegister();
-  cvGDALDataSet = GDALOpen( theFileName.trimmed().toAscii().data(), GA_ReadOnly );
+  cvGDALDataSet = GDALOpen( theFileName.trimmed().toUtf8().data(), GA_ReadOnly );
   if( 0 == cvGDALDataSet )
   {
     cvLastError = QObject::tr( "The input file was not a valid GDAL dataset" );

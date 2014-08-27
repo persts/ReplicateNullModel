@@ -1,0 +1,7 @@
+<map id="ReplicateNullModelTest" name="ReplicateNullModelTest">
+<area shape="rect" id="node3" href="$class_binomial_test.html" title="BinomialTest" alt="" coords="385,5,483,32"/>
+<area shape="rect" id="node4" href="$class_calibration_test.html" title="CalibrationTest" alt="" coords="380,56,488,83"/>
+<area shape="rect" id="node5" href="$class_pyramid_template_test.html" title="PyramidTemplateTest" alt="" coords="360,107,508,133"/>
+<area shape="rect" id="node6" href="$class_random_distribution_test.html" title="RandomDistributionTest" alt="" coords="354,157,514,184"/>
+<area shape="rect" id="node7" href="$class_random_translation_rotation_test.html" title="RandomTranslationRotationTest" alt="" coords="331,208,537,235"/>
+</map>

@@ -26,6 +26,7 @@
 #include <QApplication>
 #include <QSettings>
 #include "replicatenullmodelwindow.h"
+#include <QDebug>
 
 
 int main( int argc, char* argv[] )
@@ -38,7 +39,7 @@ int main( int argc, char* argv[] )
   QCoreApplication::setOrganizationName( "biodiversityinformatics" );
   QCoreApplication::setApplicationName( "SdmToolkit" );
 
-
+    qDebug("meow");
   return lvApp.exec();
 }
 

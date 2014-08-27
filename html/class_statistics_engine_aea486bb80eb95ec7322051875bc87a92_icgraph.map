@@ -1,0 +1,4 @@
+<map id="StatisticsEngine::exactBinomialProbability" name="StatisticsEngine::exactBinomialProbability">
+<area shape="rect" id="node2" href="$class_statistics_engine.html#a94d6b4c295c1e6d3bfe021eefd4c3345" title="Returns the binomail probability for, inputs k, n, p – at least k successes. " alt="" coords="260,5,433,47"/>
+<area shape="rect" id="node3" href="$class_binomial_test.html#a7be7ba0df650c4ef0af562227de0cf5e" title="BinomialTest::run" alt="" coords="481,13,604,39"/>
+</map>

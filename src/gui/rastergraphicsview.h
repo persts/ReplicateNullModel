@@ -33,7 +33,6 @@
 #include <QDragMoveEvent>
 #include <QDropEvent>
 
-
 class RasterGraphicsView: public QGraphicsView
 {
     Q_OBJECT

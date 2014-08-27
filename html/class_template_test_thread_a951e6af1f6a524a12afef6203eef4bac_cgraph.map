@@ -1,0 +1,9 @@
+<map id="TemplateTestThread::run" name="TemplateTestThread::run">
+<area shape="rect" id="node2" href="$class_replicate_template.html#afc063badf299a0f18abf72e32b2e1112" title="ReplicateTemplate::\ldataCloud" alt="" coords="249,5,386,47"/>
+<area shape="rect" id="node3" href="$class_replicate_template.html#ad6e85af1012317b9e4588d7953443071" title="ReplicateTemplate::\langlesToPoints" alt="" coords="249,71,386,112"/>
+<area shape="rect" id="node4" href="$class_replicate_template.html#ade2d48f39b849360568ec3e85ad7d34d" title="ReplicateTemplate::\langleToPoint" alt="" coords="464,100,601,141"/>
+<area shape="rect" id="node5" href="$class_replicate_template.html#a7ef4e8d71c13367ae14c0c8c7a4a12dc" title="Get the lable for the template cell that thePoint is located in. " alt="" coords="249,188,386,229"/>
+<area shape="rect" id="node6" href="$class_replicate_template.html#a63f1b86bf913216de09bec5700663f89" title="ReplicateTemplate::\ldataCloudRadius" alt="" coords="249,253,386,295"/>
+<area shape="rect" id="node7" href="$class_replicate_template.html#a18ba60f550f2e811ffdcf5c351c3094f" title="ReplicateTemplate::\lcellSize" alt="" coords="249,319,386,360"/>
+<area shape="rect" id="node8" href="$class_replicate_null_model_test_thread.html#a03263621759fb75c416e609ea47bc382" title="ReplicateNullModelTestThread\l::progress" alt="" coords="219,384,416,425"/>
+</map>

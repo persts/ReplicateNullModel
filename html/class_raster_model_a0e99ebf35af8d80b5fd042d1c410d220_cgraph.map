@@ -1,0 +1,4 @@
+<map id="RasterModel::rawDataAtRealWorldCoordinate" name="RasterModel::rawDataAtRealWorldCoordinate">
+<area shape="rect" id="node2" href="$class_raster_model.html#a1315c81d892af432b5fcf2b54d3540b9" title="Translates real world coordinates into pixel coordinates. " alt="" coords="253,5,425,47"/>
+<area shape="rect" id="node3" href="$class_raster_model.html#a54c58e35dbe837f60f536b1330d9289d" title="Returns the actual pixel value ( not model response ) at pixel coordinates x, y. " alt="" coords="243,71,435,112"/>
+</map>

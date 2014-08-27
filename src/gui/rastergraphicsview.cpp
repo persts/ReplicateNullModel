@@ -31,6 +31,8 @@
 #include <QSettings>
 #include <QFileInfo>
 
+#include <QtWidgets>
+
 RasterGraphicsView::RasterGraphicsView( QWidget* theParent ) : QGraphicsView( theParent )
 {
   setMouseTracking( true );
@@ -64,7 +66,7 @@ void RasterGraphicsView::mouseDoubleClickEvent( QMouseEvent* theEvent )
 {
   QSettings lvQSettings;
   QString lvFilename = QFileDialog::getOpenFileName( this, tr( "Open raster layer" ), lvQSettings.value( "lastInputDirectory", "" ).toString(), tr( "All files ( *.* )" ) );
-  QFileInfo lvFileInfo( lvFilename );
+  QFileInfo lvFileInfo( lvFilename ); /**/
 
   if( lvFilename.isEmpty() )
   {

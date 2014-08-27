@@ -28,6 +28,7 @@
 
 #include <QImage>
 #include <QColor>
+#include <QDebug>
 
 class GradientShader
 {

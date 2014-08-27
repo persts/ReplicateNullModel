@@ -1,0 +1,13 @@
+<map id="BinomialTest::run" name="BinomialTest::run">
+<area shape="rect" id="node2" href="$class_raster_model.html#a54f5896de7b913ed14c388a6b4ab80a3" title="Returns true of a raster layer has been sucessfully loaded. " alt="" coords="207,5,349,32"/>
+<area shape="rect" id="node3" href="$class_locality_collection.html#a8d09777374b7f0fd47eb2a508e970fbe" title="Accessor for the presence localties list. " alt="" coords="197,57,359,98"/>
+<area shape="rect" id="node4" href="$class_locality_list.html#aa98d69f8ed94911071c7b8da7eca5eb2" title="Return the size of the list, same as the count of elements. " alt="" coords="471,136,591,163"/>
+<area shape="rect" id="node5" href="$class_locality_list.html#a8884130ec9d41f3efc382da9f6b47819" title="Returns the locality at a list position. " alt="" coords="209,173,347,200"/>
+<area shape="rect" id="node6" href="$class_raster_model.html#a568e6e363043e370da84c5854659c8a8" title="Return the model response at real world x, y. " alt="" coords="180,225,376,266"/>
+<area shape="rect" id="node9" href="$class_raster_model.html#a15d7b9629a19918ac77505dcd6e11c30" title="Returns the proportion of area classified as &quot;positive&quot; in the predicted distirbution. " alt="" coords="176,290,380,331"/>
+<area shape="rect" id="node10" href="$class_statistics_engine.html#a94d6b4c295c1e6d3bfe021eefd4c3345" title="Returns the binomail probability for, inputs k, n, p – at least k successes. " alt="" coords="191,355,365,397"/>
+<area shape="rect" id="node12" href="$class_binomial_test_result.html#ac69493e48748a2c2998e1ee438bbd6d5" title="Convience function to general a basic report. " alt="" coords="211,421,345,462"/>
+<area shape="rect" id="node7" href="$class_raster_model.html#a1315c81d892af432b5fcf2b54d3540b9" title="Translates real world coordinates into pixel coordinates. " alt="" coords="445,213,617,254"/>
+<area shape="rect" id="node8" href="$class_raster_model.html#aea11c5898249bce79519bdc4ee571693" title="Return the model response at pixel coordinate x, y. " alt="" coords="433,278,629,319"/>
+<area shape="rect" id="node11" href="$class_statistics_engine.html#aea486bb80eb95ec7322051875bc87a92" title="Returns the exact binomail probability for, inputs k, n, p. " alt="" coords="428,355,635,397"/>
+</map>

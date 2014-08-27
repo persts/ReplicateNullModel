@@ -28,7 +28,7 @@
 
 #include <QtGlobal>
 
-#include "gsl/gsl_cdf.h"
+#include "cdf/gsl_cdf.h"
 
 #include "boost/math/distributions/binomial.hpp"
 

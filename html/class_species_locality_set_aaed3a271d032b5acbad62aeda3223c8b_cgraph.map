@@ -1,0 +1,8 @@
+<map id="SpeciesLocalitySet::save" name="SpeciesLocalitySet::save">
+<area shape="rect" id="node2" href="$class_locality_collection.html#a8d09777374b7f0fd47eb2a508e970fbe" title="Accessor for the presence localties list. " alt="" coords="206,5,369,47"/>
+<area shape="rect" id="node3" href="$class_locality_list.html#aa98d69f8ed94911071c7b8da7eca5eb2" title="Return the size of the list, same as the count of elements. " alt="" coords="435,97,555,123"/>
+<area shape="rect" id="node4" href="$class_locality_list.html#a8884130ec9d41f3efc382da9f6b47819" title="Returns the locality at a list position. " alt="" coords="219,122,356,149"/>
+<area shape="rect" id="node5" href="$class_locality_collection.html#a83d2865241e8f9338365380f19c9032e" title="Accessor for the absence localities list. " alt="" coords="208,173,367,215"/>
+<area shape="rect" id="node6" href="$class_locality_collection.html#a89224e9dba134293cb5e998221d16f75" title="Accessor for the calibration&#45;presence localities list. " alt="" coords="188,239,387,280"/>
+<area shape="rect" id="node7" href="$class_locality_collection.html#a0b39d3ca6479f855c046f1f71f7bc455" title="Accessor for the calibration&#45;absence localities list. " alt="" coords="190,304,385,345"/>
+</map>

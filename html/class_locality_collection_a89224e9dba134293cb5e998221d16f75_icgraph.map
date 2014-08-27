@@ -1,0 +1,5 @@
+<map id="LocalityCollection::calibrationPresenceLocalities" name="LocalityCollection::calibrationPresenceLocalities">
+<area shape="rect" id="node2" href="$class_species_locality_set.html#aaed3a271d032b5acbad62aeda3223c8b" title="SpeciesLocalitySet\l::save" alt="" coords="259,5,394,47"/>
+<area shape="rect" id="node3" href="$class_calibration_test.html#a28d5c657bf870b131e3c8bb604f05088" title="CalibrationTest::run" alt="" coords="259,71,394,98"/>
+<area shape="rect" id="node4" href="$class_localities_table_widget.html#acdf9920b00d5d359394cd4fff46f9c15" title="LocalitiesTableWidget\l::loadLocalities" alt="" coords="252,123,401,164"/>
+</map>

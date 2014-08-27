@@ -1,0 +1,9 @@
+<map id="ReplicateNullModelTest::arePresenceLocalitiesValid" name="ReplicateNullModelTest::arePresenceLocalitiesValid">
+<area shape="rect" id="node2" href="$class_locality_collection.html#a8d09777374b7f0fd47eb2a508e970fbe" title="Accessor for the presence localties list. " alt="" coords="257,5,419,47"/>
+<area shape="rect" id="node3" href="$class_raster_model.html#a54f5896de7b913ed14c388a6b4ab80a3" title="Returns true of a raster layer has been sucessfully loaded. " alt="" coords="267,71,409,98"/>
+<area shape="rect" id="node4" href="$class_locality_list.html#aa98d69f8ed94911071c7b8da7eca5eb2" title="Return the size of the list, same as the count of elements. " alt="" coords="522,147,642,174"/>
+<area shape="rect" id="node5" href="$class_locality_list.html#a8884130ec9d41f3efc382da9f6b47819" title="Returns the locality at a list position. " alt="" coords="269,173,407,199"/>
+<area shape="rect" id="node6" href="$class_raster_model.html#a568e6e363043e370da84c5854659c8a8" title="Return the model response at real world x, y. " alt="" coords="240,224,436,265"/>
+<area shape="rect" id="node7" href="$class_raster_model.html#a1315c81d892af432b5fcf2b54d3540b9" title="Translates real world coordinates into pixel coordinates. " alt="" coords="496,211,668,252"/>
+<area shape="rect" id="node8" href="$class_raster_model.html#aea11c5898249bce79519bdc4ee571693" title="Return the model response at pixel coordinate x, y. " alt="" coords="484,276,680,317"/>
+</map>

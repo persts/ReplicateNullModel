@@ -1,0 +1,14 @@
+<map id="RasterModel::realWorldToPixel" name="RasterModel::realWorldToPixel">
+<area shape="rect" id="node2" href="$class_raster_model.html#a568e6e363043e370da84c5854659c8a8" title="Return the model response at real world x, y. " alt="" coords="225,123,421,164"/>
+<area shape="rect" id="node5" href="$class_random_translation_rotation_thread.html#a9de7572c1dac4f639d00ba420777daf0" title="RandomTranslationRotation\lThread::run" alt="" coords="477,188,659,229"/>
+<area shape="rect" id="node8" href="$class_raster_model.html#a0e99ebf35af8d80b5fd042d1c410d220" title="Returns the actual pixel value ( not model response ) at real world coordinates x, y. " alt="" coords="229,284,418,325"/>
+<area shape="rect" id="node13" href="$class_raster_model.html#a2ce6961ee9102649a51aa73969302213" title="Convience function, same as realWorldToPixel( double, double ) " alt="" coords="237,349,409,391"/>
+<area shape="rect" id="node3" href="$class_raster_model.html#a2346532dfc8d303e4173da37834d7485" title="Return the model response at real world x, y represented by a QPointF. " alt="" coords="470,5,666,47"/>
+<area shape="rect" id="node4" href="$class_binomial_test.html#a7be7ba0df650c4ef0af562227de0cf5e" title="BinomialTest::run" alt="" coords="507,71,629,98"/>
+<area shape="rect" id="node6" href="$class_replicate_null_model_test.html#a3f376a9234a5d093d3fbe90617427377" title="ReplicateNullModelTest\l::arePresenceLocalitiesValid" alt="" coords="475,123,661,164"/>
+<area shape="rect" id="node7" href="$class_random_translation_rotation_test.html#af70b48542a7d154faef6de4fd66a047a" title="RandomTranslationRotation\lTest::run" alt="" coords="715,123,896,164"/>
+<area shape="rect" id="node9" href="$class_raster_model.html#a6ec7510c892d411f291b9c612a4b80cf" title="RasterModel::omissionList" alt="" coords="480,254,656,281"/>
+<area shape="rect" id="node10" href="$class_raster_model.html#a60704289247fe9d727c3c2af54afb304" title="RasterModel::omissionListFull" alt="" coords="469,305,667,331"/>
+<area shape="rect" id="node11" href="$class_raster_model.html#a607c66c8db7c6a3ee203678018f51818" title="Returns the actual pixel value ( not model response ) at real world coordinates x, y, represented by a QPointF. " alt="" coords="473,356,663,397"/>
+<area shape="rect" id="node12" href="$class_calibration_test.html#a28d5c657bf870b131e3c8bb604f05088" title="CalibrationTest::run" alt="" coords="501,422,635,449"/>
+</map>

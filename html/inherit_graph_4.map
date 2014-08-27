@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_landscape_mapper.html" title="LandscapeMapper" alt="" coords="159,81,287,108"/>
+<area shape="rect" id="node3" href="$class_replicate_null_model_test.html" title="ReplicateNullModelTest" alt="" coords="143,132,302,159"/>
+<area shape="rect" id="node9" href="$class_replicate_null_model_test_thread.html" title="ReplicateNullModelTestThread" alt="" coords="124,267,321,293"/>
+<area shape="rect" id="node4" href="$class_binomial_test.html" title="BinomialTest" alt="" coords="424,5,521,32"/>
+<area shape="rect" id="node5" href="$class_calibration_test.html" title="CalibrationTest" alt="" coords="419,56,527,83"/>
+<area shape="rect" id="node6" href="$class_pyramid_template_test.html" title="PyramidTemplateTest" alt="" coords="399,107,547,133"/>
+<area shape="rect" id="node7" href="$class_random_distribution_test.html" title="RandomDistributionTest" alt="" coords="393,157,553,184"/>
+<area shape="rect" id="node8" href="$class_random_translation_rotation_test.html" title="RandomTranslationRotationTest" alt="" coords="369,208,576,235"/>
+<area shape="rect" id="node10" href="$class_random_translation_rotation_thread.html" title="RandomTranslationRotation\lThread" alt="" coords="382,259,563,301"/>
+<area shape="rect" id="node11" href="$class_template_test_thread.html" title="TemplateTestThread" alt="" coords="403,325,542,352"/>
+</map>
