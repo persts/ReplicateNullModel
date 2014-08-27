@@ -39,7 +39,6 @@ int main( int argc, char* argv[] )
   QCoreApplication::setOrganizationName( "biodiversityinformatics" );
   QCoreApplication::setApplicationName( "SdmToolkit" );
 
-    qDebug("meow");
   return lvApp.exec();
 }
 
