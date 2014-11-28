@@ -1,6 +1,5 @@
 #include "randomtranslationrotationtest.h"
 #include "randomtranslationrotationthread.h"
-/**/
 #include <QDebug>
 
 RandomTranslationRotationTest::RandomTranslationRotationTest( RasterModel* theModel, const LocalityCollection &theLocalities, bool showProgress ) : ReplicateNullModelTest( theModel, theLocalities, showProgress )
@@ -120,7 +119,7 @@ void RandomTranslationRotationTest::allThreadsFinished()
 
     cvProbability->totalInputs += lvProbability.totalInputs;
     cvProbability->discardedInputs += lvProbability.discardedInputs;
-    QMapIterator< int, int > lvIterator( lvProbability.frequency );
+    QMapIterator< double, double > lvIterator( lvProbability.frequency ); //QMapIterator< int, int > lvIterator( lvProbability.frequency );
     while( lvIterator.hasNext() )
     {
       lvIterator.next();

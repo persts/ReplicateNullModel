@@ -65,7 +65,7 @@ class Probability
           {
             myReport += "+ ";
           }
-          myReport += "\tp = " + QString::number(( double ) lvTotalFrequency / ( double )totalInputs, 'f', 15 ) + "\n";
+   /**/       myReport += "\tp = " + QString::number(( double ) lvTotalFrequency / ( double )totalInputs, 'f', 15 ) + "\n";
         }
       }
       else
@@ -88,11 +88,11 @@ class Probability
 
     QString testName;
 
-    int discardedInputs;
+    double discardedInputs; //int discardedInputs;
 
-    int totalInputs;
+    double totalInputs; //int totalInputs;
 
-    QMap< int, int > frequency;
+    QMap< double , double> frequency; //QMap< int, int > frequency;
 
 };
 #endif // PROBABILITY_H

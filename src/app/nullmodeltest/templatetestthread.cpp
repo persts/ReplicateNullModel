@@ -91,7 +91,7 @@ void TemplateTestThread::run()
               lvTemplateMapElement += lvDataCloudInnerIterator.key() + "-" + cvTemplate->labelCell( lvNewPoint ) + "|"; /* */
             }
             lvTemplateMapElement.chop( 1 );
-            cvDistinctReplicates << lvTemplateMapElement;
+            cvDistinctReplicates << lvTemplateMapElement; /**/
           }
         }
         else if( 0 == lvAnglesToIntersections.size() && cvTemplate->dataCloudRadius() < cvTemplate->cellSize() )

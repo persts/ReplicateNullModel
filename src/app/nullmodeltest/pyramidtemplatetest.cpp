@@ -66,10 +66,12 @@ void PyramidTemplateTest::allThreadsFinished()
   {
     int lvLastSize = cvDistinctReplicates.size();
     QMapIterator< QString, ReplicateNullModelTestThread* > lvIterator( cvThreads );
+    qDebug()<< lvIterator.hasNext();
     while( lvIterator.hasNext() )
     {
       lvIterator.next();
       cvDistinctReplicates += lvIterator.value()->distinctReplicates();
+      qDebug()<< lvIterator.value()->distinctReplicates();
     }
 
     int lvNewReplicates = cvDistinctReplicates.size() - lvLastSize;
